@@ -60,7 +60,7 @@ neptune = Body(-4444450000000, 0.0, 0.0, -5500, 102.413E24, 24341000, 60200)
 #
 #	Functions will be used in RK4 to determine trajectory.	
 #
-#	*Update might include merging into one function/class\
+#	*Update might include merging into one function/class
 #	*Update should take into account foces due to planets, which is ignored
 #	at the moment. 
 ###################################################################################
